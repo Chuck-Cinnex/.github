@@ -1,4 +1,4 @@
-# Contributing to Cinnex-Dev projects
+# Contributing to Chuck-Cinnex projects
 
 ## Comment and issue voice
 
@@ -38,7 +38,7 @@ The script must exit 0 before any `gh issue create`, `gh issue comment`, `gh pr 
 
 ## Issue templates
 
-Blank issues are disabled org-wide. Use one of the three templates:
+Blank issues are disabled account-wide. Use one of the three templates:
 
 | Template | When to use |
 |---|---|

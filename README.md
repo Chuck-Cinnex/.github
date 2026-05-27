@@ -1,8 +1,8 @@
-# Cinnex-Dev org-wide GitHub defaults
+# Chuck-Cinnex account-wide GitHub defaults
 
-This repository holds default community health files for the [Cinnex-Dev](https://github.com/Cinnex-Dev) organisation.
+This repository holds default community health files for the [Chuck-Cinnex](https://github.com/Chuck-Cinnex) account.
 
-Any Cinnex-Dev repo that does **not** have its own `.github/ISSUE_TEMPLATE/` or `.github/pull_request_template.md` will automatically inherit the templates here.
+Any Chuck-Cinnex repo that does **not** have its own `.github/ISSUE_TEMPLATE/` or `.github/pull_request_template.md` will automatically inherit the templates here.
 
 ## Contents
 
